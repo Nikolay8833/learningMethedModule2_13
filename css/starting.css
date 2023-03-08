@@ -1,0 +1,22 @@
+.starting {
+  padding-top: 145px;
+}
+
+.starting__img {
+  width: 675px;
+  display: block;
+  margin-left: auto;
+  margin-top: -120px;
+}
+
+.page__title {
+  font-weight: 900;
+  font-size: 135px;
+  line-height: 100%;
+}
+
+.page__subtitle {
+  font-size: 28px;
+  padding-left: 100px;
+  line-height: 50px;
+}
