@@ -2,17 +2,16 @@
   padding-top: 145px;
 }
 
-.starting__img {
-  width: 675px;
-  display: block;
-  margin-left: auto;
-  margin-top: -120px;
+.starting__bg {
+  background: url("../img/starting__bg.png") right top 65px no-repeat;
+  height: 762px;
 }
 
 .page__title {
   font-weight: 900;
-  font-size: 135px;
+  font-size: 150px;
   line-height: 100%;
+  letter-spacing: -0.1em;
 }
 
 .page__subtitle {
